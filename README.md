@@ -18,13 +18,16 @@ To help you get a little more familiar with git and the terminal, we're going to
 
 2. Copy the Clone URL under the HTTPS clone URL label (right side of page).
 
-3. In your home directory, type the terminal command, replacing <GitHub Clone URL> with the URL that you copied.
+3. Open up terminal and type command, replacing <GitHub Clone URL> with the URL that you copied.
 
     ```bash
-    git clone <GitHub Clone URL> ~/cs190lab1
+    mkdir ~/cs190
+    git clone <GitHub Clone URL> ~/cs190/lab1
     ```
 
-4. Open the syllabus!
+    > Note: In this course, whenever you see `<your school>` that means that you should replace everything inside of and including the carets. So `echo <your school> is awesome` would become `echo Purdue is awesome`
+
+4. View the syllabus! To do this, just open this folder (~/cs190/lab1) in the file navigator and double click on `syllabus.html`
 
 ## Piazza ##
 
@@ -40,7 +43,7 @@ Piazza is where we'll post all course announcements (deadlines, extensions, etc)
 
 There will be bi-weekly quizzes. If you want to get a head start on the first one do it during lab!
 
-1. Go to [blackboard](https://mycourses.purdue.edu).
+1. Go to [Blackboard](https://mycourses.purdue.edu).
 
 2. Login with your career account.
 
