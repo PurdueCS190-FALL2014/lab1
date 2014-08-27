@@ -9,10 +9,13 @@ GitHub is an open-source code sharing platform. It let's anyone upload their cod
 We're going to use GitHub throughout the semester to share the labs with you. Every lab will have a README (which is really just a file, README.md), which will outline the labs instructions. Just like this one!
 
 
-#### Student GitHub Accounts
-After you've created a regular GitHub account, since we're all students GitHub gives us free education accounts. This gives you extra free private repositories.
+### Creating a Student GitHub Account
 
-To activate your student account, go to https://education.github.com and follow the steps there.
+GitHub gives all students free education accounts. This gives you extra free private repositories.
+
+To get a student account, go to https://education.github.com and follow the steps there.
+
+After you've done this, be sure to give your TA your GitHub username.
 
 ### Syllabus ###
 
