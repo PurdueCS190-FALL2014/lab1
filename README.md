@@ -21,7 +21,7 @@ To help you get a little more familiar with git and the terminal, we're going to
 3. In your home directory, type the terminal command, replacing <GitHub Clone URL> with the URL that you copied.
 
     ```bash
-    git clone <GitHub Clone URL> ~/cs190lab1
+    git clone <GitHub Clone URL> ~/cs190lab1/syllabus
     ```
 
 4. Open the syllabus!
