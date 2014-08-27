@@ -8,6 +8,15 @@ GitHub is an open-source code sharing platform. It let's anyone upload their cod
 
 We're going to use GitHub throughout the semester to share the labs with you. Every lab will have a README (which is really just a file, README.md), which will outline the labs instructions. Just like this one!
 
+
+### Creating a Student GitHub Account
+
+GitHub gives all students free education accounts. This gives you extra free private repositories.
+
+To get a student account, go to https://education.github.com and follow the steps there.
+
+After you've done this, be sure to give your TA your GitHub username.
+
 ### Syllabus ###
 
 To help you get a little more familiar with git and the terminal, we're going to have you clone the course syllabus.
@@ -18,13 +27,16 @@ To help you get a little more familiar with git and the terminal, we're going to
 
 2. Copy the Clone URL under the HTTPS clone URL label (right side of page).
 
-3. In your home directory, type the terminal command, replacing <GitHub Clone URL> with the URL that you copied.
+3. Open up terminal and type command, replacing <GitHub Clone URL> with the URL that you copied.
 
     ```bash
-    git clone <GitHub Clone URL> ~/cs190lab1/syllabus
+    mkdir ~/cs190
+    git clone <GitHub Clone URL> ~/cs190/syllabus
     ```
 
-4. Open the syllabus!
+    > Note: In this course, whenever you see `<your school>` that means that you should replace everything inside of and including the carets. So `echo <your school> is awesome` would become `echo Purdue is awesome`
+
+4. View the syllabus! To do this, just open this folder (~/cs190/lab1) in the file navigator and double click on `syllabus.html`
 
 ## Piazza ##
 
@@ -40,7 +52,7 @@ Piazza is where we'll post all course announcements (deadlines, extensions, etc)
 
 There will be bi-weekly quizzes. If you want to get a head start on the first one do it during lab!
 
-1. Go to [blackboard](https://mycourses.purdue.edu).
+1. Go to [Blackboard](https://mycourses.purdue.edu).
 
 2. Login with your career account.
 
