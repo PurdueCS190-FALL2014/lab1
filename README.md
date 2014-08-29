@@ -60,6 +60,16 @@ There will be bi-weekly quizzes. If you want to get a head start on the first on
 
 4. Click Quizzes, Quiz 1 - Introduction to Tools, Begin.
 
+## BoilerMake (optional) ##
+
+You should apply to BoilerMake, Purdue's hackathon. More info about what BoilerMake is go [here](https://piazza.com/class/hz7luhvej2a4d0?cid=9)
+
+1. Go to [BoilerMake.org](http://boilermake.org)
+
+2. Apply for BoilerMake
+
+3. Invite teammates on your application
+
 ## Grading ##
 
 1. Show us your cloned syllabus.
